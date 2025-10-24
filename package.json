@@ -1,0 +1,14 @@
+{
+  "name": "cat-community",
+  "version": "1.0.0",
+  "private": true,
+  "main": "/src/index.jsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "antd": "^5.16.1",
+    "@ant-design/icons": "^5.2.6",
+    "tailwindcss": "^3.3.0"
+  }
+}
